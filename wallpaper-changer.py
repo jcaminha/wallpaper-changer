@@ -53,7 +53,9 @@ def main():
     
     urllist = ['https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/5424x5424.jpg',
                'https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/ssa/GEOCOLOR/3600x2160.jpg',
-               'nasa_iotd']
+               'nasa_iotd',
+               'https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/taw/GEOCOLOR/3600x2160.jpg',
+               'https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/nsa/GEOCOLOR/3600x2160.jpg']
     
     destination = '/home/jean/.cache/goes16wallpaper/'
     filename = "wallpaper.jpg"
